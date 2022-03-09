@@ -1,18 +1,18 @@
-# TIPs
+# LIPs
 
-TRON Improvement Proposals (TIPs) describe standards for the TRON platform, including core protocol specifications, client APIs, and contract standards.
+LITE Improvement Proposals (LIPs) describe standards for the LITE platform, including core protocol specifications, client APIs, and contract standards.
 
 ****
 
 ## Contents
- * [TIPs](#tips)
-    * [TIPs Guide](#tips-guide)
-    * [To Submit a TIP](#to-submit-a-tip)
-    * [TIP Status](#tip-status)
-    * [TIP Types](#tip-types)
+ * [LIPs](#tips)
+    * [LIPs Guide](#lips-guide)
+    * [To Submit a LIP](#to-submit-a-lip)
+    * [LIP Status](#lip-status)
+    * [LIP Types](#lip-types)
 ****
 
-## TIPs Guide 
+## LIPs Guide 
 
 
 |  ID    | Title  | Author | Type | Category | Hard&nbsp;fork | Status |
@@ -67,7 +67,7 @@ TRON Improvement Proposals (TIPs) describe standards for the TRON platform, incl
 
 ****
 
-## To Submit a TIP
+## To Submit a LIP
 
 Before you submit a TIP, you need to create an issue for comment and add the issue URL to your TIP header.   
 
